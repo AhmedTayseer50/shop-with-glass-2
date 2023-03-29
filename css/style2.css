@@ -1,0 +1,42 @@
+/* check product table start */
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid ;
+    text-align: center;
+    padding: 8px;
+    width: auto;
+  }
+  
+  .checkbox{
+    display: flex;
+    justify-content: center;
+  }
+
+  .check1{
+   
+    width: auto;
+    background-color: #03cafc;
+    box-shadow: 10px 5px;
+  }
+
+  table img{
+    width: 150px;
+    height: 100px;
+    margin: auto;
+  }
+  
+  .butt1 {
+    display: flex;
+    justify-content: center;
+  }
+ 
+  button{
+    font-weight:bolder;
+  }
+
+  /* check product table end */
